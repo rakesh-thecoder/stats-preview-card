@@ -46,7 +46,7 @@ Users should be able to:
 - Frontend Mentor - [@rakesh-devep](https://www.frontendmentor.io/profile/rakesh-devep)
 - Twitter - [@rakesh_thecoder](https://www.twitter.com/rakesh_thecoder)
 - Linkedin -[@rakesh-thecoder](https://www.linkedin.com/in/rakesh-thecoder)
-- Instagram - [@theamigoooooo])https://www.instagram.com/theamigoooooo)
+- Instagram - [@theamigoooooo](https://www.instagram.com/theamigoooooo)
 
 
 
